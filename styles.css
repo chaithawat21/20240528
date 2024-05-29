@@ -237,7 +237,7 @@ footer {
     }
     .bottomContent {
         padding-inline: 1rem;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
 }
 
